@@ -6,4 +6,4 @@ Kill List
 * Repeated code blocks
 * Bad variable names
 * lack of comments
-* using built-in features
+* Added repos without readmes
