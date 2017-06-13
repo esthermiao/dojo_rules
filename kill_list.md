@@ -6,4 +6,3 @@ Kill List
 * Repeated code blocks
 * Bad variable names
 * Create local var
-* Not run test
