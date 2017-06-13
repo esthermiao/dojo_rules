@@ -6,4 +6,4 @@ Kill List
 * Repeated code blocks
 * Bad variable names
 * lack of comments
-* not using built-in features.
+* using built-in features.
